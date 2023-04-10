@@ -6,3 +6,13 @@
 ```javascript
 var a = 1;
 ```
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+1. First
+1. Second
+
+- First without number
+  - Second
